@@ -1,4 +1,4 @@
-package factory.ab;
+package factory.abstrac;
 
 /**
  * Created by geng

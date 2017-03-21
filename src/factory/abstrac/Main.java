@@ -1,4 +1,4 @@
-package factory.ab;
+package factory.abstrac;
 
 public class Main {
 

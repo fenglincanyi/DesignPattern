@@ -1,18 +1,18 @@
-package factory.ab;
+package factory.abstrac;
 
 /**
  * Created by geng
  * on 2017/3/21.
  */
-public class GoogleFactory extends AbstractFactory {
+public class AppleFactory extends AbstractFactory {
 
     @Override
     public Phone newPhone() {
-        return new Nexus();
+        return new Iphone();
     }
 
     @Override
     public Computer newComputer() {
-        return new GooglePC();
+        return new Mac();
     }
 }
