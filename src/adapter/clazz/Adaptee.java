@@ -1,4 +1,4 @@
-package adapter;
+package adapter.clazz;
 
 /**
  * Created by geng
@@ -7,6 +7,6 @@ package adapter;
 public class Adaptee {
 
     public void getPower220V(){
-        System.out.print("get power: 220V");
+        System.out.println("getPower 220v ...");
     }
 }
