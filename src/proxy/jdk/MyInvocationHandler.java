@@ -30,6 +30,5 @@ public class MyInvocationHandler implements InvocationHandler {
 
     /**
      * jdk 动态代理局限性： 必须要有接口实现类
-     *
      */
 }
