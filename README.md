@@ -1,6 +1,9 @@
 # DesignPattern
 常用的设计模式（java 实现）
 
+------
+其他资料：
+
 老外代码：
 https://github.com/iluwatar/java-design-patterns
 
