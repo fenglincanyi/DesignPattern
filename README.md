@@ -1,12 +1,12 @@
-# DesignPattern
-常用的设计模式（java 实现）
+> 常用的设计模式（java 实现）
 
-------
+
 参考资料：
 
 https://github.com/iluwatar/java-design-patterns
+
 https://www.gitbook.com/book/quanke/design-pattern-java/details
-----
+
 
 ## 面向对象设计原则
 * 单一职责原则(Single Responsibility Principle, SRP)
@@ -26,7 +26,7 @@ https://www.gitbook.com/book/quanke/design-pattern-java/details
 
 * 接口隔离原则(Interface Segregation Principle, ISP)
 
-使用多个专门的接口，而不使用单一 的总接口，即客户端不应该依赖那些它不需要的接口。
+使用多个专门的接口，而不使用单一的总接口，即客户端不应该依赖那些它不需要的接口。
 
 * 合成复用原则(Composite Reuse Principle, CRP)
 
