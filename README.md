@@ -7,6 +7,9 @@ https://github.com/iluwatar/java-design-patterns
 
 https://www.gitbook.com/book/quanke/design-pattern-java/details
 
+Android 中的设计模式：
+https://github.com/simple-android-framework-exchange/android_design_patterns_analysis
+
 
 ## 面向对象设计原则
 * 单一职责原则(Single Responsibility Principle, SRP)
